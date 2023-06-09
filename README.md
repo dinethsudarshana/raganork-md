@@ -60,7 +60,7 @@ I can't guarantee or can be held responsible if you get blocked or banned by usi
 -   This is an independent and unofficial software Use at your own risk.
   
   
-  https://heroku.com/deploy?template=https://github.com/dinethsudarshana/raganork-md
+  https://heroku.com/deploy?template=https://github.com/vihangayt0/Astro-MD-V7
   
   
   
